@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🔥 My LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-five.vercel.app/api?username=Swaron)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Swaron?theme=dark)
 
 ### 💻 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ejaz-uddin-swaron&show_icons=true&theme=radical)
