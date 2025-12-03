@@ -6,7 +6,7 @@ I believe in building solutions that scale, analyze, and automate — leveraging
 
 ---
 
-### 🤖 AI & Machine Learning Journey
+### 🔥 AI & Machine Learning Journey
 
 * 🔍 Practicing **NumPy, Pandas, Matplotlib, Seaborn** daily
 * 🧠 Strengthening ML fundamentals: Regression, Classification, Feature Engineering
