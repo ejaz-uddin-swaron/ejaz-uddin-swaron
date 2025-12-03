@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ejaz-uddin-swaron?theme=dark)
 
 ### 💻 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ejaz-uddin-swaron&show_icons=true&theme=radical)
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ejaz-uddin-swaron&show_icons=true&theme=radical)
+](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ejaz-uddin-swaron&show_icons=true&theme=radical
+)
 ## 🚀 My Tech Stack
 
 <div align="center">
@@ -40,6 +41,11 @@ Here are some ideas to get you started:
 
 <!-- Frameworks & APIs -->
 <h3>⚡ Frameworks & APIs</h3>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-006600?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="zoom:1.3"/>
 <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white" style="zoom:1.3"/>
 <img src="https://img.shields.io/badge/REST%20API-2196F3?style=for-the-badge&logo=rest&logoColor=white" style="zoom:1.3"/>
