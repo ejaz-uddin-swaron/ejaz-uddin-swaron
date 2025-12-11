@@ -24,7 +24,7 @@ I believe in building solutions that scale, analyze, and automate — leveraging
 
 ### 💻 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ejaz-uddin-swaron&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ejaz-uddin-swaron\&show_icons=true\&theme=radical)
 
 ---
 
